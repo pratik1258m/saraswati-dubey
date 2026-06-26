@@ -71,10 +71,12 @@
   <img src="https://img.shields.io/badge/R-276A3D?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
-### 🛠️ Developer Tools
+### 🛠️ Developer Tools & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Postman_/_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman/APIs" />
 </p>
 
 ### 🧠 Conceptual Skills
