@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/header.png" alt="Saraswati Dubey Banner" width="100%" />
-</div>
-
 <h1 align="center">Hi there! I'm Saraswati Dubey 👋</h1>
 
 <p align="center">
