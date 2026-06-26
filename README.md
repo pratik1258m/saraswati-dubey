@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://saraswatid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0072FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/saraswati-dubey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/saraswati-dubey-19b61b335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://saraswatid.netlify.app/#contact"><img src="https://img.shields.io/badge/Contact_Me-00C6FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" /></a>
 </p>
 
@@ -126,20 +126,18 @@
 
 ---
 
-## 📈 GitHub Stats
-
+## 📈 Contribution Activity
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=saraswati-dubey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe" alt="Saraswati Dubey's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswati-dubey&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saraswati-dubey&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4facfe&line=00f2fe&point=ffffff&area=true&area_color=00f2fe" alt="Activity Graph" width="100%" />
 </div>
+
+---
+
+## 🎯 2026 Goals
+- 🚀 Master advanced frontend development with **React** and **Three.js**
+- 🌐 Build 5+ full-stack projects using **Node.js** and **databases**
+- ✍️ Share technical articles on web technologies and programming
+- 🤝 Actively contribute to open-source developer communities
 
 ---
 
@@ -148,7 +146,7 @@
 Feel free to reach out to me for collaborations, queries, or just to say hello!
 
 - **Portfolio:** [saraswatid.netlify.app](https://saraswatid.netlify.app/)
-- **LinkedIn:** [/in/saraswati-dubey](https://linkedin.com/in/saraswati-dubey)
+- **LinkedIn:** [saraswati-dubey-19b61b335](https://www.linkedin.com/in/saraswati-dubey-19b61b335/)
 - **Get in touch:** Fill out the contact form on my [website](https://saraswatid.netlify.app/#contact)!
 
 <div align="center">
