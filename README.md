@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=220&section=header&text=Saraswati%20Dubey&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=62&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=220&section=header&text=Saraswati%20Dubey&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=62&descSize=16" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ec4899&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;Web+Developer;Building+interactive+interfaces;Learning+Three.js+%26+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c471ed&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;Web+Developer;Building+interactive+interfaces;Learning+Three.js+%26+React" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,10 +36,16 @@
 
 ---
 
-## 📊 3D Contribution Calendar
-*(Automatically updated daily)*
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Saraswati Dubey 3D Contribution Graph" width="100%" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=saraswati-dubey&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies" />
+</div>
+
+---
+
+## 💬 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
 </div>
 
 ---
@@ -144,5 +150,5 @@ Feel free to reach out to me for collaborations, queries, or just to say hello!
 - **Get in touch:** Fill out the contact form on my [website](https://saraswatid.netlify.app/#contact)!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=100&section=footer" width="100%" />
 </div>
