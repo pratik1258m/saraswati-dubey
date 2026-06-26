@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=220&section=header&text=Saraswati%20Dubey&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=62&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:6a11cb&height=220&section=header&text=Saraswati%20Dubey&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=62&descSize=16" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c471ed&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;Web+Developer;Building+interactive+interfaces;Learning+Three.js+%26+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4facfe&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;Web+Developer;Building+interactive+interfaces;Learning+Three.js+%26+React" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://saraswatid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://saraswatid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0072FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/saraswati-dubey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://saraswatid.netlify.app/#contact"><img src="https://img.shields.io/badge/Contact_Me-9c27b0?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" /></a>
+  <a href="https://saraswatid.netlify.app/#contact"><img src="https://img.shields.io/badge/Contact_Me-00C6FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" /></a>
 </p>
 
 <p align="center">
@@ -38,14 +38,14 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=saraswati-dubey&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=saraswati-dubey&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies" />
 </div>
 
 ---
 
 ## 💬 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
 </div>
 
 ---
@@ -130,10 +130,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=saraswati-dubey&show_icons=true&theme=radical&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&icon_color=ec4899" alt="Saraswati Dubey's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=saraswati-dubey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe" alt="Saraswati Dubey's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswati-dubey&layout=compact&theme=radical&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&icon_color=ec4899" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswati-dubey&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -150,5 +150,5 @@ Feel free to reach out to me for collaborations, queries, or just to say hello!
 - **Get in touch:** Fill out the contact form on my [website](https://saraswatid.netlify.app/#contact)!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:6a11cb&height=100&section=footer" width="100%" />
 </div>
