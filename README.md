@@ -1,6 +1,12 @@
 <h1 align="center">Hi there! I'm Saraswati Dubey 👋</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ec4899&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;Web+Developer;Building+interactive+interfaces;Learning+Three.js+%26+React" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://saraswatid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/saraswati-dubey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://saraswatid.netlify.app/#contact"><img src="https://img.shields.io/badge/Contact_Me-9c27b0?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" /></a>
@@ -33,7 +39,7 @@
 ## 📊 3D Contribution Calendar
 *(Automatically updated daily)*
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Saraswati Dubey 3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Saraswati Dubey 3D Contribution Graph" width="100%" />
 </div>
 
 ---
