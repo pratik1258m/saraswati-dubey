@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! I'm Saraswati Dubey 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=220&section=header&text=Saraswati%20Dubey&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=62&descSize=16" width="100%" />
 
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ec4899&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;Web+Developer;Building+interactive+interfaces;Learning+Three.js+%26+React" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://saraswatid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -142,3 +142,7 @@ Feel free to reach out to me for collaborations, queries, or just to say hello!
 - **Portfolio:** [saraswatid.netlify.app](https://saraswatid.netlify.app/)
 - **LinkedIn:** [/in/saraswati-dubey](https://linkedin.com/in/saraswati-dubey)
 - **Get in touch:** Fill out the contact form on my [website](https://saraswatid.netlify.app/#contact)!
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=100&section=footer" width="100%" />
+</div>
