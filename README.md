@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saraswati-dubey&color=purple&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saraswati-dubey&color=4facfe&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
