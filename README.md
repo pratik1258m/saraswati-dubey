@@ -93,8 +93,8 @@
     <td width="33%" valign="top">
       <h3 align="center">✨ Portfolio Website</h3>
       <p align="center">
-        <a href="https://github.com/saraswati-dubey/Portfolio"><img src="https://img.shields.io/badge/Repository-purple?style=flat-square&logo=github" alt="Portfolio Repo" /></a>
-        <a href="https://saraswatid.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-pink?style=flat-square&logo=google-chrome" alt="Portfolio Live" /></a>
+        <a href="https://github.com/saraswati-dubey/Portfolio"><img src="https://img.shields.io/badge/Repository-0072FF?style=flat-square&logo=github" alt="Portfolio Repo" /></a>
+        <a href="https://saraswatid.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C6FF?style=flat-square&logo=google-chrome" alt="Portfolio Live" /></a>
       </p>
       <p>Modern animated developer portfolio built with <strong>Three.js</strong>, <strong>Tailwind CSS</strong>, and glowing glassmorphic elements.</p>
       <p align="center">
@@ -104,7 +104,7 @@
     <td width="33%" valign="top">
       <h3 align="center">🛒 E-Commerce Website</h3>
       <p align="center">
-        <a href="https://github.com/saraswati-dubey/e-commerce"><img src="https://img.shields.io/badge/Repository-purple?style=flat-square&logo=github" alt="E-Commerce Repo" /></a>
+        <a href="https://github.com/saraswati-dubey/e-commerce"><img src="https://img.shields.io/badge/Repository-0072FF?style=flat-square&logo=github" alt="E-Commerce Repo" /></a>
       </p>
       <p>A responsive shopping user interface complete with an interactive cart, secure checkout, and dynamic product filtering.</p>
       <p align="center">
@@ -114,7 +114,8 @@
     <td width="33%" valign="top">
       <h3 align="center">🐍 Snake Game</h3>
       <p align="center">
-        <a href="https://github.com/saraswati-dubey/SnakeGame"><img src="https://img.shields.io/badge/Repository-purple?style=flat-square&logo=github" alt="SnakeGame Repo" /></a>
+        <a href="https://github.com/saraswati-dubey/SnakeGame"><img src="https://img.shields.io/badge/Repository-0072FF?style=flat-square&logo=github" alt="SnakeGame Repo" /></a>
+        <a href="https://saraswati-dubey.github.io/SnakeGame/"><img src="https://img.shields.io/badge/Live_Demo-00C6FF?style=flat-square&logo=google-chrome" alt="SnakeGame Live" /></a>
       </p>
       <p>Classic arcade game designed with smooth keyboard controls, dynamic HTML5 canvas rendering, and a real-time scoreboard.</p>
       <p align="center">
